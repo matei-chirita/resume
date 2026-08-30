@@ -40,7 +40,7 @@ p {
 
 hr {
     border: none;
-    background-color: lightgray;
+    background-color: #ff751f;
     height: 1px;
 }
 
@@ -49,5 +49,5 @@ h1, h2 {
     margin-bottom: 0;
 }
 #mainLeft {
-   border-right: 1px solid lightgray;
+   border-right: 1px solid #ff751f;
 }
