@@ -68,3 +68,6 @@ h2 {
 #mainLeft {
     border-right: 1px solid #ff751f;
 }
+ul {
+    padding-left: 20px;
+}
