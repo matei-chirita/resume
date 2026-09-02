@@ -3,7 +3,7 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
-    background-color: #7a7a7a;
+    background-color: #494949;
 }
 
 .containerCV {
@@ -89,7 +89,7 @@ ul {
 }
 
 .gear {
-    font-size: 70px;
+    font-size: 100px;
     color: orange;
     animation: gear-spin 1.5s linear infinite;
 }
