@@ -110,6 +110,10 @@ ul {
         transform: rotate(360deg);
     }
 }
+
+
+
+
 @media (max-width: 600px) {
 
     body {
@@ -139,14 +143,38 @@ ul {
     }
 
     main {
-        display: block;
+        display: flex;
+        flex-direction: column;
         margin-top: 2em;
+    }
+
+    #mainLeft,
+    #mainRight {
+        display: contents;
+    }
+
+    .contact {
+        order: 1;
+    }
+
+    .about {
+        order: 2;
+    }
+
+    .skills {
+        order: 3;
+    }
+
+    .education {
+        order: 4;
+    }
+
+    .experience {
+        order: 5;
     }
 
     #mainLeft {
         border-right: none;
-        border-bottom: 1px solid #ff751f;
-        padding-bottom: 1em;
     }
 
     section {
