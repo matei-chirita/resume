@@ -332,9 +332,8 @@ a:hover {
         order: 1;
     }
 .contact p {
-    display: inline-block;
-    margin: 0.4em 1em 0.4em 0;
-    white-space: nowrap;
+    display: block;
+    margin: 0.6em 0;
 }
 
 .contact i {
