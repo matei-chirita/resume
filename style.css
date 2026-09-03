@@ -89,6 +89,7 @@ section > h2 {
     border-bottom: 1px solid #ff751f;
     padding-bottom: 0.45em;
     margin-bottom: 1em;
+    
 }
 
 h2 {
@@ -143,12 +144,14 @@ li {
 ========================= */
 
 .contact p {
-    margin: 0.7em 0;
+    display: inline-block;
+    margin: 0.4em 1em 0.4em 0;
+    white-space: nowrap;
 }
 
 .contact i {
     width: 18px;
-    margin-right: 0.5em;
+    margin-right: 0.4em;
     color: #ff751f;
 }
 
