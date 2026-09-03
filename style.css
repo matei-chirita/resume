@@ -146,6 +146,7 @@ li {
 .contact p {
     display: inline-block;
     margin: 0.4em 1em 0.4em 0;
+    text-align: center;
     
 }
 
