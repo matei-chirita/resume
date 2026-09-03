@@ -145,15 +145,13 @@ li {
 
 .contact p {
     margin: 0.7em 0;
-    text-align: center;
 }
 
 .contact i {
     width: 18px;
-    margin-right: 0.4em;
+    margin-right: 0.5em;
     color: #ff751f;
 }
-
 
 /* =========================
    SKILLS
