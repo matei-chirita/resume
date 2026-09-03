@@ -331,7 +331,17 @@ a:hover {
     .contact {
         order: 1;
     }
+.contact p {
+    display: inline-block;
+    margin: 0.4em 1em 0.4em 0;
+    white-space: nowrap;
+}
 
+.contact i {
+    width: 18px;
+    margin-right: 0.4em;
+    color: #ff751f;
+}
     .about {
         order: 2;
     }
