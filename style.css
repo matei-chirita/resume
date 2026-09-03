@@ -96,6 +96,7 @@ h2 {
     font-weight: 400;
     letter-spacing: 0.08em;
     margin-top: 0;
+    text-align: center;
 }
 
 h3 {
@@ -354,7 +355,10 @@ a:hover {
     }
 
     section > h2 {
-        margin-bottom: 0.8em;
+       text-align: center;
+    border-bottom: 1px solid #ff751f;
+    padding-bottom: 0.45em;
+    margin-bottom: 1em;
     }
 
     h2 {
